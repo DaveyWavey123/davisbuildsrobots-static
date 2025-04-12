@@ -2,171 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Davis Builds Robots</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://davisbuildsrobots.dev/tags/</link>
     <description>Recent content in Tags on Davis Builds Robots</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davisbuildsrobots.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>https://davisbuildsrobots.dev/tags/ai/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Biosignals</title>
-      <link>http://localhost:1313/tags/biosignals/</link>
+      <link>https://davisbuildsrobots.dev/tags/biosignals/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/biosignals/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/biosignals/</guid>
       <description></description>
     </item>
     <item>
       <title>Computation</title>
-      <link>http://localhost:1313/tags/computation/</link>
+      <link>https://davisbuildsrobots.dev/tags/computation/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/computation/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/computation/</guid>
       <description></description>
     </item>
     <item>
       <title>Control Systems</title>
-      <link>http://localhost:1313/tags/control-systems/</link>
+      <link>https://davisbuildsrobots.dev/tags/control-systems/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/control-systems/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/control-systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Acquisition</title>
-      <link>http://localhost:1313/tags/data-acquisition/</link>
+      <link>https://davisbuildsrobots.dev/tags/data-acquisition/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/data-acquisition/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/data-acquisition/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Visualization</title>
-      <link>http://localhost:1313/tags/data-visualization/</link>
+      <link>https://davisbuildsrobots.dev/tags/data-visualization/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/data-visualization/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/data-visualization/</guid>
       <description></description>
     </item>
     <item>
       <title>Digital Logic</title>
-      <link>http://localhost:1313/tags/digital-logic/</link>
+      <link>https://davisbuildsrobots.dev/tags/digital-logic/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/digital-logic/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/digital-logic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EEG</title>
+      <link>https://davisbuildsrobots.dev/tags/eeg/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://davisbuildsrobots.dev/tags/eeg/</guid>
       <description></description>
     </item>
     <item>
       <title>Embedded</title>
-      <link>http://localhost:1313/tags/embedded/</link>
+      <link>https://davisbuildsrobots.dev/tags/embedded/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/embedded/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/embedded/</guid>
       <description></description>
     </item>
     <item>
       <title>Embedded Systems</title>
-      <link>http://localhost:1313/tags/embedded-systems/</link>
+      <link>https://davisbuildsrobots.dev/tags/embedded-systems/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/embedded-systems/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/embedded-systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Fluid Dynamics</title>
-      <link>http://localhost:1313/tags/fluid-dynamics/</link>
+      <link>https://davisbuildsrobots.dev/tags/fluid-dynamics/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/fluid-dynamics/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/fluid-dynamics/</guid>
       <description></description>
     </item>
     <item>
       <title>Game Design</title>
-      <link>http://localhost:1313/tags/game-design/</link>
+      <link>https://davisbuildsrobots.dev/tags/game-design/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/game-design/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/game-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Hardware Design</title>
-      <link>http://localhost:1313/tags/hardware-design/</link>
+      <link>https://davisbuildsrobots.dev/tags/hardware-design/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hardware-design/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/hardware-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Interactive</title>
-      <link>http://localhost:1313/tags/interactive/</link>
+      <link>https://davisbuildsrobots.dev/tags/interactive/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/interactive/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/interactive/</guid>
       <description></description>
     </item>
     <item>
       <title>Low-Level</title>
-      <link>http://localhost:1313/tags/low-level/</link>
+      <link>https://davisbuildsrobots.dev/tags/low-level/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/low-level/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/low-level/</guid>
       <description></description>
     </item>
     <item>
       <title>Mechanical</title>
-      <link>http://localhost:1313/tags/mechanical/</link>
+      <link>https://davisbuildsrobots.dev/tags/mechanical/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mechanical/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/mechanical/</guid>
       <description></description>
     </item>
     <item>
       <title>Mechanical Design</title>
-      <link>http://localhost:1313/tags/mechanical-design/</link>
+      <link>https://davisbuildsrobots.dev/tags/mechanical-design/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mechanical-design/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/mechanical-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Micropython</title>
-      <link>http://localhost:1313/tags/micropython/</link>
+      <link>https://davisbuildsrobots.dev/tags/micropython/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/micropython/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/micropython/</guid>
       <description></description>
     </item>
     <item>
       <title>Neuroscience</title>
-      <link>http://localhost:1313/tags/neuroscience/</link>
+      <link>https://davisbuildsrobots.dev/tags/neuroscience/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/neuroscience/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/neuroscience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neurotech</title>
+      <link>https://davisbuildsrobots.dev/tags/neurotech/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://davisbuildsrobots.dev/tags/neurotech/</guid>
       <description></description>
     </item>
     <item>
       <title>Optimization</title>
-      <link>http://localhost:1313/tags/optimization/</link>
+      <link>https://davisbuildsrobots.dev/tags/optimization/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/optimization/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Physics</title>
-      <link>http://localhost:1313/tags/physics/</link>
+      <link>https://davisbuildsrobots.dev/tags/physics/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/physics/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/physics/</guid>
       <description></description>
     </item>
     <item>
       <title>Robotics</title>
-      <link>http://localhost:1313/tags/robotics/</link>
+      <link>https://davisbuildsrobots.dev/tags/robotics/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/robotics/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/robotics/</guid>
       <description></description>
     </item>
     <item>
       <title>Testing</title>
-      <link>http://localhost:1313/tags/testing/</link>
+      <link>https://davisbuildsrobots.dev/tags/testing/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/testing/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/testing/</guid>
       <description></description>
     </item>
     <item>
       <title>Wokwi</title>
-      <link>http://localhost:1313/tags/wokwi/</link>
+      <link>https://davisbuildsrobots.dev/tags/wokwi/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wokwi/</guid>
+      <guid>https://davisbuildsrobots.dev/tags/wokwi/</guid>
       <description></description>
     </item>
   </channel>

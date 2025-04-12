@@ -2,111 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/ai/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/balancing-bot/</loc>
+    <loc>https://davisbuildsrobots.dev/projects/balancing-bot/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/biosignals/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/biosignals/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/chip-based-computer/</loc>
+    <loc>https://davisbuildsrobots.dev/projects/chip-based-computer/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/computation/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/computation/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/control-systems/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/control-systems/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/d/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/data-acquisition/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/data-acquisition/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/data-visualization/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/data-visualization/</loc>
+    <loc>https://davisbuildsrobots.dev/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/digital-logic/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/digital-logic/</loc>
+    <loc>https://davisbuildsrobots.dev/projects/diy-eeg/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/embedded/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/eeg/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/embedded-chess-ai/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/embedded/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/embedded-systems/</loc>
+    <loc>https://davisbuildsrobots.dev/projects/embedded-chess-ai/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/fluid-dynamics/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/embedded-systems/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/game-design/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/fluid-dynamics/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hardware-design/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/game-design/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/high-acceleration-test-rig/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/hardware-design/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/interactive/</loc>
+    <loc>https://davisbuildsrobots.dev/projects/high-acceleration-test-rig/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/ising-machine/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/interactive/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/low-level/</loc>
+    <loc>https://davisbuildsrobots.dev/projects/ising-machine/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mechanical/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/low-level/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mechanical-design/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/mechanical/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/microcontroller-micro-projects/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/mechanical-design/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/micropython/</loc>
+    <loc>https://davisbuildsrobots.dev/projects/microcontroller-micro-projects/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/neuroscience/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/micropython/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/optimization/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/neuroscience/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/physics/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/neurotech/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/programmable-waterfall/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/optimization/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/physics/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/robotics/</loc>
+    <loc>https://davisbuildsrobots.dev/projects/programmable-waterfall/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://davisbuildsrobots.dev/projects/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/testing/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/robotics/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/winning-robot/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/wokwi/</loc>
+    <loc>https://davisbuildsrobots.dev/tags/testing/</loc>
     <lastmod>2024-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://davisbuildsrobots.dev/projects/winning-robot/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davisbuildsrobots.dev/tags/wokwi/</loc>
+    <lastmod>2024-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davisbuildsrobots.dev/categories/</loc>
   </url>
 </urlset>
