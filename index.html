@@ -1,165 +1,171 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto">
-
+<html lang="en">
 <head>
-	<meta name="generator" content="Hugo 0.145.0"><meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="index, follow">
-<title>Davis Builds Robots</title>
-
-<meta name="description" content="">
-<meta name="author" content="">
-<link rel="canonical" href="https://resonant-sunshine-f6a3af.netlify.app/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.6da9a63d25a9608bca2f7f907a030e887a7dd3c3f3918e4cc113129361414bda.css" integrity="sha256-bammPSWpYIvKL3&#43;QegMOiHp908PzkY5MwRMSk2FBS9o=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://resonant-sunshine-f6a3af.netlify.app/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://resonant-sunshine-f6a3af.netlify.app/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://resonant-sunshine-f6a3af.netlify.app/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://resonant-sunshine-f6a3af.netlify.app/apple-touch-icon.png">
-<link rel="mask-icon" href="https://resonant-sunshine-f6a3af.netlify.app/safari-pinned-tab.svg">
-<meta name="theme-color" content="#2e2e33">
-<meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://resonant-sunshine-f6a3af.netlify.app/index.xml">
-<link rel="alternate" hreflang="en" href="https://resonant-sunshine-f6a3af.netlify.app/">
-<noscript>
-    <style>
-        #theme-toggle,
-        .top-link {
-            display: none;
-        }
-
-    </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --code-block-bg: rgb(46, 46, 51);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-            }
-
-            .list {
-                background: var(--theme);
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-track {
-                background: 0 0;
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-thumb {
-                border-color: var(--theme);
-            }
-        }
-
-    </style>
-</noscript><meta property="og:url" content="https://resonant-sunshine-f6a3af.netlify.app/">
-  <meta property="og:site_name" content="Davis Builds Robots">
-  <meta property="og:title" content="Davis Builds Robots">
-  <meta property="og:locale" content="en-us">
-  <meta property="og:type" content="website">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Davis Builds Robots">
-<meta name="twitter:description" content="">
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Davis Builds Robots",
-  "url": "https://resonant-sunshine-f6a3af.netlify.app/",
-  "description": "",
-  "logo": "https://resonant-sunshine-f6a3af.netlify.app/favicon.ico",
-  "sameAs": [
-      
-  ]
-}
-</script>
-</head>
-
-<body class="list" id="top">
-<script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
+	<meta name="generator" content="Hugo 0.145.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Davis Builds Robots</title>
+  <style>
+    :root {
+      --bg: #1e2a38;
+      --text: #e6eaf0;
+      --card-bg: #2a3b4d;
+      --btn-bg: #2c3e50;
     }
 
-</script>
+    body.dark {
+      --bg: #121212;
+      --text: #eaeaea;
+      --card-bg: #1e1e1e;
+      --btn-bg: #000000;
+    }
 
-<header class="header">
-    <nav class="nav">
-        <div class="logo">
-            <a href="https://resonant-sunshine-f6a3af.netlify.app/" accesskey="h" title="Davis Builds Robots (Alt + H)">Davis Builds Robots</a>
-            <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
-            </div>
-        </div>
-        <ul id="menu">
-        </ul>
-    </nav>
-</header>
-<main class="main">
+    body {
+      font-family: Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      margin: 0;
+      padding: 2rem;
+      transition: background 0.3s, color 0.3s;
+    }
+
+    h1, h2 {
+      text-align: center;
+    }
+
+    .bio-header {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .bio-header img {
+      width: 220px;
+      border-radius: 12px;
+    }
+
+    .bio-text {
+      max-width: 600px;
+    }
+
+    .toggle-btn {
+      position: fixed;
+      top: 10px;
+      right: 20px;
+      background: var(--btn-bg);
+      color: white;
+      border: none;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      cursor: pointer;
+      z-index: 999;
+      font-weight: bold;
+    }
+
+    .project-section {
+      margin-top: 3rem;
+    }
+
+    .projects-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1rem;
+    }
+
+    .project-card {
+      background: var(--card-bg);
+      text-align: left;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      text-decoration: none;
+      color: var(--text);
+      border: 1px solid #444;
+    }
+
+    .project-card img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+    }
+
+    .project-content {
+      padding: 1rem;
+    }
+
+    .project-card h3 {
+      margin: 0 0 0.5rem;
+    }
+
+    .project-card p {
+      margin: 0;
+      font-size: 0.9rem;
+    }
+
+    .project-card:hover {
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    }
+
+    .button-container {
+      text-align: center;
+      margin-top: 2rem;
+    }
+
+    .btn {
+      background: var(--btn-bg);
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .btn:hover {
+      opacity: 0.9;
+    }
+  </style>
+</head>
+<body>
   <button class="toggle-btn" onclick="document.body.classList.toggle('dark')">Toggle Dark Mode</button>
 
   
-  <div class="bio-header" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 2rem; margin-bottom: 2rem;">
-    <img src="images/cartoon-avatar.png" alt="Davis cartoon photo" style="width: 220px; border-radius: 12px;" />
-    <div class="bio-text" style="max-width: 600px;">
+  <div class="bio-header">
+    <img src="images/cartoon-avatar.png" alt="Davis cartoon photo" />
+    <div class="bio-text">
       <h1>Davisbuildsrobots.dev</h1>
       <p>Hi, I'm Davis. I like working at the intersection of robotics, embedded systems, and DIY hardware hacks. From EEG systems to balancing bots, this site showcases the things I've built and learned along the way.</p>
-      <p>🚧 This website is still under construction — some pages are placeholders!</p>
     </div>
+	Heads up 👷 This website is still in construction... some items you see are just placeholders for when I have time to add the real thing!
   </div>
 
   
   <div class="project-section">
-    <h2 style="text-align: center;">Pseudo-professional (mostly team) Projects</h2>
-    <div class="projects-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem;">
-      <a href="projects/diy-eeg" class="project-card" style="background: var(--card-bg, #2a3b4d); text-decoration: none; color: inherit; border: 1px solid #444;">
-        <img src="images/eeg.png" alt="DIY EEG" style="width: 100%; height: 180px; object-fit: cover;" />
-        <div class="project-content" style="padding: 1rem;">
+    <h2>Pseudo-professional (mostly team) Projects</h2>
+    <div class="projects-grid">
+      <a href="projects/diy-eeg" class="project-card">
+        <img src="images/eeg.png" alt="DIY EEG" />
+        <div class="project-content">
           <h3>DIY EEG</h3>
           <p>Wearable brainwave monitoring using open-source components.</p>
         </div>
       </a>
-      <a href="projects/ising-machine/" class="project-card" style="background: var(--card-bg, #2a3b4d); text-decoration: none; color: inherit; border: 1px solid #444;">
-        <img src="images/ising.jpg" alt="Ising Machine" style="width: 100%; height: 180px; object-fit: cover;" />
-        <div class="project-content" style="padding: 1rem;">
+      <a href="projects/ising-machine/" class="project-card">
+        <img src="images/ising.jpg" alt="Ising Machine" />
+        <div class="project-content">
           <h3>Ising Machine</h3>
-          <p>"Quantum Simulation"/ Optimization using custom PCB.</p>
+          <p>"Quantum Simulaton"/ Optimization using custom PCB.</p>
         </div>
       </a>
-      <a href="projects/high-acceleration-test-rig/" class="project-card" style="background: var(--card-bg, #2a3b4d); text-decoration: none; color: inherit; border: 1px solid #444;">
-        <img src="images/test-rig.jpg" alt="High Acceleration Test Rig" style="width: 100%; height: 180px; object-fit: cover;" />
-        <div class="project-content" style="padding: 1rem;">
+      <a href="projects/high-acceleration-test-rig/" class="project-card">
+        <img src="images/test-rig.jpg" alt="High Acceleration Test Rig" />
+        <div class="project-content">
           <h3>High Acceleration Rig</h3>
-          <p>Custom-built platform for testing cooling systems under high-g's.</p>
+          <p>Custom-built platform for testing cooling system under high-g's.</p>
         </div>
       </a>
     </div>
@@ -167,32 +173,32 @@
 
   
   <div class="project-section">
-    <h2 style="text-align: center;">Just Cool Projects</h2>
-    <div class="projects-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem;">
-      <a href="projects/microcontroller-micro-projects/" class="project-card" style="background: var(--card-bg, #2a3b4d); text-decoration: none; color: inherit; border: 1px solid #444;">
-        <img src="images/micro-mcu.jpg" alt="Micro Microcontrollers" style="width: 100%; height: 180px; object-fit: cover;" />
-        <div class="project-content" style="padding: 1rem;">
+    <h2>Just Cool Projects</h2>
+    <div class="projects-grid">
+      <a href="projects/microcontroller-micro-projects/" class="project-card">
+        <img src="images/micro-mcu.jpg" alt="Micro Microcontrollers" />
+        <div class="project-content">
           <h3>Micro MCU Projects</h3>
           <p>Tiny little proofs of concept.</p>
         </div>
       </a>
-      <a href="projects/balancing-bot/" class="project-card" style="background: var(--card-bg, #2a3b4d); text-decoration: none; color: inherit; border: 1px solid #444;">
-        <img src="images/balance-bot.jpg" alt="Balance Bot" style="width: 100%; height: 180px; object-fit: cover;" />
-        <div class="project-content" style="padding: 1rem;">
+      <a href="projects/balancing-bot/" class="project-card">
+        <img src="images/balance-bot.jpg" alt="Balance Bot" />
+        <div class="project-content">
           <h3>Balance Bot</h3>
           <p>Self-balancing robot with real-time rotary encoder feedback and PID control.</p>
         </div>
       </a>
-      <a href="projects/winning-robot/" class="project-card" style="background: var(--card-bg, #2a3b4d); text-decoration: none; color: inherit; border: 1px solid #444;">
-        <img src="images/winning-bot.png" alt="Winning Robot" style="width: 100%; height: 180px; object-fit: cover;" />
-        <div class="project-content" style="padding: 1rem;">
+      <a href="projects/winning-robot/" class="project-card">
+        <img src="images/winning-bot.png" alt="Winning Robot" />
+        <div class="project-content">
           <h3>Winning Robot</h3>
           <p>A FIRST-style robotics competition I won with a small team at GaTech.</p>
         </div>
       </a>
     </div>
-    <div class="button-container" style="text-align: center; margin-top: 2rem;">
-      <a href="projects/" class="btn" style="background: var(--btn-bg, #2c3e50); color: white; padding: 0.75rem 1.5rem; border: none; border-radius: 6px; font-weight: bold; text-decoration: none;">View more of my projects</a>
+    <div class="button-container">
+      <a href="projects/" class="btn">View more of my projects</a>
     </div>
   </div>
 
@@ -205,78 +211,5 @@
       localStorage.setItem("darkMode", !dark);
     });
   </script>
-
-    </main>
-    
-<footer class="footer">
-        <span>&copy; 2025 <a href="https://resonant-sunshine-f6a3af.netlify.app/">Davis Builds Robots</a></span> · 
-
-    <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span>
-</footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
-    </svg>
-</a>
-
-<script>
-    let menu = document.getElementById('menu')
-    if (menu) {
-        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
-        menu.onscroll = function () {
-            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-        }
-    }
-
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener("click", function (e) {
-            e.preventDefault();
-            var id = this.getAttribute("href").substr(1);
-            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
-                    behavior: "smooth"
-                });
-            } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
-            }
-            if (id === "top") {
-                history.replaceState(null, null, " ");
-            } else {
-                history.pushState(null, null, `#${id}`);
-            }
-        });
-    });
-
-</script>
-<script>
-    var mybutton = document.getElementById("top-link");
-    window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
-        } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
-        }
-    };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
-
-</script>
 </body>
-
 </html>
